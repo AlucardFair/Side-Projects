@@ -1,1 +1,50 @@
-// write your CSS in here
+/*
+Zachery Hernandez
+5/27/2012
+Get It Back
+https://github.com/AlucardFair/Side-Projects/GetItBack
+*/
+
+.imgSize {
+	width: 40%;
+	margin-left: .5em;
+}
+
+label.error {
+	display: block;
+	margin: 20px 10px;
+	color: #FF0000;
+}
+
+.mainColor {
+	background-image: -webkit-linear-gradient(bottom, rgb(37,152,157), rgb(57,172,177), rgb(77,192,197));
+}
+
+.secondaryColor {
+	background-image: -webkit-linear-gradient(bottom, rgb(235,131,18), rgb(255,151,38), rgb(255,171,58));
+}
+
+.thirdColor {
+	background-image: -webkit-linear-gradient(bottom, rgb(77,192,197), rgb(97,212,217), rgb(127,232,237));
+}
+
+#tab1 {
+	margin-top: -1em;
+	padding: 1em;
+	border-radius: 0 0 6px 6px;
+	background: white;
+}
+
+#tab2 {
+	margin-top: -1em;
+	padding: 1em;
+	border-radius: 0 0 6px 6px;
+	background: white;
+}
+
+#tab3 {
+	margin-top: -1em;
+	padding: 1em;
+	border-radius: 0 0 6px 6px;
+	background: white;
+}
